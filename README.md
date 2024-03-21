@@ -4,6 +4,10 @@ Day by day the cases of heart diseases are increasing at a rapid rate and it's v
 Early detection enables timely interventions, including lifestyle modifications, medication, and surgical procedures, which can significantly reduce the risk of complications and improve prognosis. Moreover, accurate prediction facilitates resource allocation within healthcare systems, optimizing patient care pathways and ensuring that those at heightened risk receive appropriate monitoring and treatment. 
 
 By harnessing the power of predictive analytics and machine learning techniques, we can not only enhance our understanding of the complex interplay of risk factors but also empower healthcare providers with tools to proactively identify and manage individuals susceptible to heart disease, thus advancing preventive healthcare and ultimately saving lives.
-
+# Objective
 To create a resilient heart disease prediction system, enhancing early warning capabilities and minimizing the risks associated with cardiovascular complications by utilizing diverse machine learning algorithms.
+# Sub-objectives:
+•	To compile a comprehensive dataset encompassing relevant health metrics and demographic information to facilitate effective heart disease prediction.
+•	To evaluate and optimize machine learning algorithms for accurate heart disease prediction, considering factors such as performance, interpretability, and scalability.
+
 
